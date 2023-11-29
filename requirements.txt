@@ -1,6 +1,6 @@
 cffi==1.15.1
 colorama==0.4.6
-cryptography==40.0.2
+cryptography==41.0.6
 cx-Oracle==8.3.0
 greenlet==2.0.2
 mysql==0.0.3
